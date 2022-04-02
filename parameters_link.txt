@@ -1,0 +1,14 @@
+parameters:
+
+{
+  "Pregnancies": 2,
+  "Glucose": 23,
+  "BloodPressure": 140,
+  "SkinThickness": 23,
+  "Insulin": 0,
+  "BMI": 34.22,
+  "DiabetesPedigreeFunction": 0.7,
+  "Age": 30
+}
+
+link: https://fastapi-diabetes1.herokuapp.com/docs
